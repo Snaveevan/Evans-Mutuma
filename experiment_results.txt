@@ -1,0 +1,14 @@
+Size: 1
+Comparisons: 0
+Swaps: 0
+Execution Time: 0.00001
+
+Size: 10
+Comparisons: 25
+Swaps: 9
+Execution Time: 0.0001
+
+Size: 250
+Comparisons: 3600
+Swaps: 1200
+Execution Time: 0.002
